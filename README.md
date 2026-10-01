@@ -1,6 +1,6 @@
 # Lokalizator sprzętu
 
-Wewnętrzna aplikacja webowa do lokalizowania sprzętu i przenoszenia go
+Wewnętrzna testowa aplikacja webowa do lokalizowania sprzętu i przenoszenia go
 między salami. Umożliwia szybkie sprawdzenie, gdzie znajduje się dany
 sprzęt, oraz zapisuje historię przeniesień (kto, kiedy, skąd, dokąd).
 
